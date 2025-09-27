@@ -15,7 +15,7 @@
 ## 🚀 Projects
 
 - **[Brainly-practice](https://github.com/abhinavv016/Brainly-practice):**  
-  My go-to practice project for sharpening my DSA and coding skills.
+  My go-to practice project for practicing web development skills.
 
 - **[ReviewBoxd](https://github.com/abhinavv016/ReviewBoxd):**  
   Currently building a platform to review and track TV shows & movies.
